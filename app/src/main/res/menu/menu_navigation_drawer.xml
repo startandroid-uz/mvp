@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/actionSettings"
+                android:title="@string/action_settings"/>
+    </group>
+
+    <item android:title="@string/language">
+        <menu>
+            <item
+                    android:id="@+id/actionLangEnglish"
+                    android:title="@string/lang_english"/>
+            <item
+                    android:id="@+id/actionLangRussian"
+                    android:title="@string/lang_russian"/>
+        </menu>
+    </item>
+</menu>

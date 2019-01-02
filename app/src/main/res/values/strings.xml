@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVP Sample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_russian">Русский</string>
+
+    <string name="alert_message_no_network">No network. Please check your Internet connection and try again.</string>
+    <string name="alert_button_ok">OK</string>
+</resources>
